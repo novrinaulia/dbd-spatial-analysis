@@ -61,6 +61,9 @@ db_name <- "spatial_db"
 db_user <- "geoid"
 db_password <- "user123"
 ```
+### ERD Database 
+<img width="746" height="566" alt="ERD" src="https://github.com/user-attachments/assets/2a06a4f3-cb5a-4f39-a030-254530e92c6f" />
+
 
 ### 3. Jalankan Aplikasi
 ```R
