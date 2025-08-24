@@ -53,7 +53,7 @@ install.packages(c(
   "shinyWidgets"
 ))
 ```
-### 2. Konfigurasi Database
+### 2. Konfigurasi Database (PostgreSQL) 
 ```R
 db_host <- "localhost"
 db_port <- 5432
