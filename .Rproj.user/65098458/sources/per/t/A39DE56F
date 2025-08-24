@@ -1,0 +1,26 @@
+{
+    "id": "A39DE56F",
+    "path": "D:/SKRIPSI/Aplikasi/rstudio/rstudioFIX/kerawananDBD/conn.R",
+    "project_path": "kerawananDBD/conn.R",
+    "type": "r_source",
+    "hash": "1332176255",
+    "contents": "",
+    "dirty": false,
+    "created": 1755958931568.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "28,1",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1748454407,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1748454407,
+    "read_only": false,
+    "read_only_alternatives": []
+}

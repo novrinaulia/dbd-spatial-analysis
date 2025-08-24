@@ -1,0 +1,26 @@
+{
+    "id": "67C72388",
+    "path": "D:/SKRIPSI/Aplikasi/rstudio/rstudioFIX/kerawananDBD/model.R",
+    "project_path": "kerawananDBD/model.R",
+    "type": "r_source",
+    "hash": "907522469",
+    "contents": "",
+    "dirty": false,
+    "created": 1749228257022.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "771,0",
+        "scrollLine": "0"
+    },
+    "folds": "13|82|99|0|\n103|20|122|0|\n125|35|152|0|\n155|31|209|0|\n212|43|274|0|\n277|39|501|0|\n",
+    "lastKnownWriteTime": 1749808000,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1749808000325,
+    "read_only": false,
+    "read_only_alternatives": []
+}

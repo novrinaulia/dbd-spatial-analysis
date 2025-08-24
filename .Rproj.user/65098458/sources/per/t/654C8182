@@ -1,0 +1,26 @@
+{
+    "id": "654C8182",
+    "path": "D:/SKRIPSI/Aplikasi/rstudio/rstudioFIX/kerawananDBD/output.R",
+    "project_path": "kerawananDBD/output.R",
+    "type": "r_source",
+    "hash": "3853139647",
+    "contents": "",
+    "dirty": false,
+    "created": 1749228264072.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "1342,1",
+        "scrollLine": "323"
+    },
+    "folds": "7|52|26|0|\n29|47|31|0|\n34|58|46|0|\n49|59|59|0|\n77|35|212|2|\n215|38|224|2|\n227|40|291|2|\n294|40|320|2|\n323|47|439|2|\n442|52|462|2|\n465|59|567|2|\n570|39|627|2|\n630|43|642|2|\n645|45|771|2|\n661|72|702|4|\n709|58|712|4|\n714|51|717|4|\n774|39|871|2|\n874|44|891|2|\n894|45|1055|2|\n1058|39|1130|2|\n1133|41|1153|2|\n1156|43|1341|2|\n",
+    "lastKnownWriteTime": 1752069321,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1755959263493,
+    "read_only": false,
+    "read_only_alternatives": []
+}
