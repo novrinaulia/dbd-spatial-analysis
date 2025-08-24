@@ -66,10 +66,9 @@ db_password <- "user123"
 User_App <- shiny::runApp()
 Admin-Panel <- shiny::runApp()
 ```
-# Skripsi: IDENTIFIKASI POLA SPASIAL DAN PEMODELAN FAKTOR RISIKO DEMAM BERDARAH DENGUE DI KABUPATEN JEMBER BERBASIS GIS
-
-Dibuat oleh: [Aulia Novrin Harleyanto]
-Tahun: 2025
+## Skripsi: IDENTIFIKASI POLA SPASIAL DAN PEMODELAN FAKTOR RISIKO DEMAM BERDARAH DENGUE DI KABUPATEN JEMBER BERBASIS GI
+###Dibuat oleh: [Aulia Novrin Harleyanto]
+###Tahun: 2025
 
 
 
