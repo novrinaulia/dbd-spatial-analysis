@@ -22,6 +22,7 @@ Keduanya terhubung dengan **PostgreSQL + PostGIS** untuk pengelolaan data spasia
 - Validasi input sebelum masuk ke database
 
 ## 📂 Struktur Proyek
+```
 dbd-spatial-analysis/
 ├── user_app/
 │ ├── app.R # File utama User App
@@ -39,7 +40,7 @@ dbd-spatial-analysis/
 │ └── utils.R # Fungsi pendukung (upload, validasi data)
 │
 └── README.md # Dokumentasi proyek
-
+```
 ---
 
 ## ⚙️ Persiapan
@@ -66,9 +67,10 @@ db_password <- "user123"
 User_App <- shiny::runApp()
 Admin-Panel <- shiny::runApp()
 ```
-## Skripsi: IDENTIFIKASI POLA SPASIAL DAN PEMODELAN FAKTOR RISIKO DEMAM BERDARAH DENGUE DI KABUPATEN JEMBER BERBASIS GI
-###Dibuat oleh: [Aulia Novrin Harleyanto]
-###Tahun: 2025
+## Skripsi: IDENTIFIKASI POLA SPASIAL DAN PEMODELAN FAKTOR RISIKO DEMAM BERDARAH DENGUE DI KABUPATEN JEMBER BERBASIS GIS
+### Dibuat oleh: [Aulia Novrin Harleyanto]
+### Tahun: 2025
+Penelitian ini membahas identifikasi pola spasial serta pemodelan faktor risiko penyebaran Demam Berdarah Dengue (DBD) di Kabupaten Jember. Analisis dilakukan menggunakan metode Spatial Autocorrelation (Morans'I dan LISA) dan Spatial Regression (SLM dan SEM) berbasis GIS yang diintegrasikan dengan R Shiny untuk menghasilkan sistem dashboard interaktif.
 
 ## Tampilan Dashboard User App <img width="1344" height="722" alt="image" src="https://github.com/user-attachments/assets/3ca55b67-a3b2-465e-9dda-5f5893bcab54" />
 
